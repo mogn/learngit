@@ -5,3 +5,4 @@ Git tracks changes of files.
 this is reset test
 Creating a new branch is quick
 test dev
+Creating a new branch is quick and simple
